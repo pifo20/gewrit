@@ -12,7 +12,7 @@ as a sneak peek, i'll give some example sentences. yesss these are a bit eurocen
 
 ("Mifi'st jer tvancvila, ja?" - "We're very quiet, aren't we?")
 
-("Hai! us multi vosinu jotsabaho?" - "Hi! Would you guys like breakfast?")
+("Hai! us multi vosinu jotsabahos?" - "Hi! Would you guys like breakfast?")
 
 ("Jenliti est mise cato. Est jer cafuna, ja?" - "This is my cat. They're very cute, right?")
 
